@@ -17,7 +17,7 @@ donde se tomo el valor absoluto de la resta de la lista f64 (numeros de largo fl
 
 En el siguiente grafico se presenta como crece el error relativo a medida que aumenta la altura
 
-![Result](foto1.png)
+![Result](grafico.png)
 
 **Output de la consola:**
 ````
